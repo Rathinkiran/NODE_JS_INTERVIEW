@@ -1,0 +1,13 @@
+{
+  "id": 1,
+  "fields": [
+    {
+      "type": "text",
+      "label": "Name"
+    },
+    {
+      "type": "checkbook",
+      "label": "Subscribe"
+    }
+  ]
+}
