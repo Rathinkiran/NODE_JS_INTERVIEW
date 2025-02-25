@@ -1,13 +1,16 @@
-{
-  "id": 1,
-  "fields": [
-    {
+[
+  {
+    "id": 5,
+    "fields": {
       "type": "text",
-      "label": "Name"
-    },
-    {
-      "type": "checkbook",
-      "label": "Subscribe"
+      "label": "None"
     }
-  ]
-}
+  },
+  {
+    "id": 6,
+    "fields": {
+      "type": "text",
+      "label": "None"
+    }
+  }
+]
